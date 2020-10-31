@@ -1,0 +1,6 @@
+Estrutura de Dados e Algoritmos 1
+Projeto 1
+Alunos:
+  Érico Bandeira - 16/0070287
+  Luciana Ribeiro Lins de Albuquerque - 15/0016131
+  Max Henrique Barbosa - 16/0047013
