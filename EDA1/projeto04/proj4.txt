@@ -1,0 +1,21 @@
+Pista 3: apenas decolagens e pousos de emergencia.
+Pistas 1 e 2: pousos e decolagens.
+
+Vôos: XX0000 
+A - aproximação
+D - decolagem (nao tem marcador de combustivel)
+0 a 12: 0 = prioridade máxima de pouso (0 de combustivel restante)
+
+UnTempo = 5min
+A cada 50 minutos, o combustivel deve decrescer em 1 
+
+Se 3 aviões com prioridade 0 se aproximarem: "ALERTA GERAL DE DESVIO DE AERONAVE”
+Se pista 3 disponível, deve ser usada pra pouso
+Se não: "ALERTA CRÍTICO, AERONAVE IRÁ CAIR"
+
+NVoos (20 a 64)
+NAproximacoes (10 a 32)
+NDecolagens (10 a 32)
+CombA (0 a 12)
+NAproximacoes + NDecolagens = NVoos
+
